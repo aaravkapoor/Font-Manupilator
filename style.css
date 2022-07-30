@@ -1,0 +1,25 @@
+.header{
+  font-size: 30px;
+  width: 100%;
+  margin: 0%;
+  box-shadow: 9px 9px 9px grey;
+}
+
+.note{
+  font-size: 15px;
+  color: black;
+  
+}
+
+.footer{
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  color: rgb(255, 251, 0);
+  background-color: dodgerblue;
+  line-height: 3
+  ;
+}
+
+
